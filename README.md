@@ -9,7 +9,7 @@ Task 2B: Comparison about retrieval effectiveness with and without Stemming
 Task 3A Precision and Recall with Weighting Functions
 
 Task 3B Topic Retrieval and Weighting Function Retrieval
-## Part 3 Recommender Systems
+## Part 2 Recommender Systems
 
 Stage 1A: Crawl the web to retrieve a set of web pages
 
